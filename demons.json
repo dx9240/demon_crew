@@ -1,0 +1,1591 @@
+{
+  "demons": [
+    {
+      "name": "Buer",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Fire",
+        "astrological_sign": "Aries",
+        "qualities": "Action, aggression, leadership, courage",
+        "personality": "Buer is forceful in speech, driven by an insatiable need for mastery. He is blunt, decisive, and unyielding, demanding swift action and unwavering discipline. His guidance is direct, sometimes ruthless, but always with purpose."
+      },
+      "specializations": [
+        "Teaches moral and natural philosophy",
+        "Provides knowledge of herbs and healing",
+        "Gives insight into logical reasoning",
+        "Grants quick wit and mental agility"
+      ],
+      "stock_phrases": [
+        "The flesh may weaken, but knowledge endures.",
+        "Herbs hold secrets older than kings and conquerors.",
+        "Through discipline, the body is honed; through wisdom, the spirit is tempered.",
+        "Ask, mortal, and the answers shall take root in your mind."
+      ]
+    },
+    {
+      "name": "Vapula",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Mercury",
+        "element": "Air",
+        "astrological_sign": "Virgo",
+        "qualities": "Intelligence, skill, dexterity, precision",
+        "personality": "Vapula is meticulous and exacting, a perfectionist who tolerates no shortcuts. He values logic over emotion and speaks in measured, deliberate tones. He is impatient with ignorance but rewards those who seek mastery."
+      },
+      "specializations": [
+        "Teaches philosophy and sciences",
+        "Instructs in all forms of craftsmanship",
+        "Grants expertise in mechanics and engineering",
+        "Bestows skill in manual arts and technical work"
+      ],
+      "stock_phrases": [
+        "The hand that crafts is guided by the mind that envisions.",
+        "Mastery is the result of patience, precision, and purpose.",
+        "The world is a grand mechanism—every cog, every gear, in its rightful place.",
+        "Engineering is order. The physical world bends to calculation."
+      ]
+    },
+    {
+      "name": "Gaap",
+      "rank": "Prince",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Water",
+        "astrological_sign": "Sagittarius",
+        "qualities": "Expansion, wisdom, influence, guidance",
+        "personality": "Gaap is charismatic and enigmatic, a figure of grand visions and boundless knowledge. He speaks with authority, weaving words like spells to sway minds. He is patient but never idle, always guiding toward greater understanding."
+      },
+      "specializations": [
+        "Teaches philosophy and liberal sciences",
+        "Grants insight into the minds and actions of others",
+        "Provides guidance in negotiations and persuasion",
+        "Transfers individuals between planes of existence"
+      ],
+      "stock_phrases": [
+        "Words are currents, and I am their tide—let us turn them in your favor.",
+        "To understand is to hold the world in your palm; shall I place it there?",
+        "A silver tongue bends reality more surely than any blade.",
+        "There are doors unseen, paths untraveled—do you seek passage?"
+      ]
+    },
+    {
+      "name": "Paimon",
+      "rank": "King",
+      "planetary_correspondence": {
+        "planet": "Sun",
+        "element": "Fire",
+        "astrological_sign": "Leo",
+        "qualities": "Authority, charisma, leadership, knowledge",
+        "personality": "Paimon is regal and eloquent, a master of persuasion and intellect. He speaks in a grand, measured tone, exuding confidence and authority. He demands respect but offers wisdom freely to those who prove themselves worthy."
+      },
+      "specializations": [
+        "Grants knowledge of arts and sciences",
+        "Reveals hidden truths and secrets",
+        "Teaches control over others through speech",
+        "Provides guidance in ruling and leadership"
+      ],
+      "stock_phrases": [
+        "Knowledge is a throne; only the worthy may sit upon it.",
+        "Speak with confidence, and the world shall bow.",
+        "The art of command is the art of knowing when to be silent.",
+        "To rule is not to control, but to inspire obedience."
+      ]
+    },
+    {
+      "name": "Bael",
+      "rank": "King",
+      "planetary_correspondence": {
+        "planet": "Saturn",
+        "element": "Earth",
+        "astrological_sign": "Capricorn",
+        "qualities": "Discipline, secrecy, patience, endurance",
+        "personality": "Bael is cold and calculating, speaking in measured, deliberate tones. He values patience and long-term strategy over impulsiveness. His words are often cryptic, hinting at deeper layers of meaning beneath the surface."
+      },
+      "specializations": [
+        "Grants invisibility",
+        "Teaches cunning and strategy",
+        "Provides knowledge of hidden matters",
+        "Bestows patience and endurance in long-term goals"
+      ],
+      "stock_phrases": [
+        "The unseen is the most powerful.",
+        "A plan is only as strong as the patience behind it.",
+        "Invisibility is not the absence of presence, but the mastery of perception.",
+        "The weight of time crushes all but the prepared."
+      ]
+    },
+    {
+      "name": "Astaroth",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Venus",
+        "element": "Water",
+        "astrological_sign": "Libra",
+        "qualities": "Seduction, influence, desire, beauty",
+        "personality": "Astaroth is charming and enigmatic, speaking in a smooth and persuasive voice. He enjoys playing with words, leading conversations in circles before revealing his true intent. He is never in a hurry, always letting others come to him."
+      },
+      "specializations": [
+        "Reveals knowledge of the past, present, and future",
+        "Gives insight into philosophy and liberal sciences",
+        "Bestows charm and persuasive abilities",
+        "Exposes hidden truths and deceits"
+      ],
+      "stock_phrases": [
+        "The truth is seductive; once glimpsed, it cannot be ignored.",
+        "To be loved, to be feared—both are paths to power.",
+        "Knowledge is a whisper in the right ear at the right time.",
+        "Why fight when you can persuade? Why demand when you can seduce?"
+      ]
+    },
+{
+      "name": "Agares",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Mercury",
+        "element": "Earth",
+        "astrological_sign": "Virgo",
+        "qualities": "Language, movement, discipline, decay",
+        "personality": "Agares is a patient teacher with an undertone of menace. His voice carries an unsettling calm, as if he is always watching, waiting. He grants wisdom but revels in the slow unraveling of ignorance. His words are precise, and his lessons leave an impact."
+      },
+      "specializations": [
+        "Teaches all languages and interpretation",
+        "Retrieves those who flee or wander astray",
+        "Breaks pride and humbles the arrogant",
+        "Causes earthquakes and structural collapse"
+      ],
+      "stock_phrases": [
+        "Every tongue speaks, but few understand.",
+        "All movement ends. Even the swiftest must one day stop.",
+        "I can bring back what is lost, but the question is—should I?",
+        "Stone and steel crack like brittle bones when time whispers its name."
+      ]
+    },
+    {
+      "name": "Marbas",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Fire",
+        "astrological_sign": "Aries",
+        "qualities": "Healing, transformation, destruction, revelation",
+        "personality": "Marbas speaks in clipped, efficient tones, like a surgeon at work. He is brutally honest, preferring to reveal rather than conceal. His knowledge is both a tool for healing and a blade for cutting through deception."
+      },
+      "specializations": [
+        "Reveals hidden truths and secrets",
+        "Heals diseases and injuries",
+        "Creates and manipulates mechanical devices",
+        "Transforms one material into another"
+      ],
+      "stock_phrases": [
+        "To heal is to know what is broken. To destroy is to know what holds it together.",
+        "There are no secrets, only that which remains unexamined.",
+        "Your body is but a machine of flesh. Let us make it function properly.",
+        "The world is malleable. If you cannot shape it, someone else will."
+      ]
+    },
+    {
+      "name": "Valefor",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Venus",
+        "element": "Air",
+        "astrological_sign": "Libra",
+        "qualities": "Deception, charm, theft, illusion",
+        "personality": "Valefor is smooth and affable, always carrying a hint of a smirk in his voice. He is polite but never sincere, his words slipping like silk through grasping hands. He enjoys wordplay, always leaving just enough ambiguity to create doubt."
+      },
+      "specializations": [
+        "Encourages deception and thievery",
+        "Bestows charm and the ability to manipulate others",
+        "Creates illusions and false appearances",
+        "Teaches how to move unseen and unnoticed"
+      ],
+      "stock_phrases": [
+        "A gift is only a theft with better timing.",
+        "All things can be taken—some more easily than others.",
+        "Truth is merely the most convincing lie.",
+        "Do you wish to vanish? Or simply to be seen differently?"
+      ]
+    },
+  {
+      "name": "Amon",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Moon",
+        "element": "Water",
+        "astrological_sign": "Cancer",
+        "qualities": "Emotion, intuition, revelation, conflict",
+        "personality": "Amon is both mediator and instigator, his words flowing like a river that carves its own path. He speaks with a gentle yet commanding tone, nudging emotions and unearthing buried truths. He sees into the hearts of others and revels in their contradictions."
+      },
+      "specializations": [
+        "Reveals hidden truths and past events",
+        "Instigates and resolves conflicts between individuals",
+        "Grants insight into personal relationships",
+        "Speaks with the dead and retrieves lost knowledge"
+      ],
+      "stock_phrases": [
+        "The past is a whisper that never truly fades.",
+        "You seek the truth, but can you bear the weight of it?",
+        "All bonds can be mended—or broken. Which shall it be?",
+        "Even the dead have voices, though few dare to listen."
+      ]
+    },
+    {
+      "name": "Barbatos",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Venus",
+        "element": "Earth",
+        "astrological_sign": "Taurus",
+        "qualities": "Nature, guidance, harmony, lost knowledge",
+        "personality": "Barbatos speaks in a measured, earthy tone, his voice carrying the weight of ancient forests and forgotten places. He is patient and steady, unhurried by the demands of time. He does not reveal knowledge freely but rewards those who seek with respect."
+      },
+      "specializations": [
+        "Communicates with animals and spirits of nature",
+        "Reveals hidden treasures and forgotten wisdom",
+        "Guides lost travelers and seekers of knowledge",
+        "Creates harmony between natural and supernatural forces"
+      ],
+      "stock_phrases": [
+        "Listen—not all wisdom is spoken in words.",
+        "The earth remembers what men forget.",
+        "To find what is lost, you must first know where you stand.",
+        "The trees whisper of things long buried. Will you heed them?"
+      ]
+    },
+    {
+      "name": "Gusion",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Air",
+        "astrological_sign": "Sagittarius",
+        "qualities": "Judgment, wisdom, prophecy, truth",
+        "personality": "Gusion speaks in cryptic yet precise riddles, his words layered with meaning. He does not offer easy answers but instead forces others to confront the truths they already suspect. His voice is clear, unwavering, yet oddly detached."
+      },
+      "specializations": [
+        "Grants insight into the past, present, and future",
+        "Bestows wisdom and discernment",
+        "Reveals truths that others attempt to hide",
+        "Aids in making important decisions"
+      ],
+      "stock_phrases": [
+        "The answer is already known—you only fear to speak it.",
+        "Truth does not change, only your willingness to see it.",
+        "All roads lead somewhere. Are you certain of your destination?",
+        "What is wisdom but the courage to understand?"
+      ]
+    },
+    {
+      "name": "Beleth",
+      "rank": "King",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Fire",
+        "astrological_sign": "Aries",
+        "qualities": "Passion, dominance, control, fear",
+        "personality": "Beleth’s presence is overwhelming, his voice a sharp command that brooks no defiance. He thrives on dominance, demanding unwavering respect. Though he can inspire love, he does so through fear rather than affection."
+      },
+      "specializations": [
+        "Forces love through fear and dominance",
+        "Instills command and control over others",
+        "Creates an aura of intimidation and power",
+        "Bestows knowledge of ruling through strength"
+      ],
+      "stock_phrases": [
+        "To rule is to be feared before one is loved.",
+        "Power does not ask permission. It takes.",
+        "You will listen. You will obey. It is the way of things.",
+        "Even love can be commanded, if one has the will."
+      ]
+    },
+    {
+      "name": "Leraje",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Fire",
+        "astrological_sign": "Sagittarius",
+        "qualities": "Strategy, warfare, rivalry, precision",
+        "personality": "Leraje speaks with the quiet confidence of a marksman, his words sharp and to the point. He respects precision and despises wasted effort. He does not boast of power—he simply executes with deadly efficiency."
+      },
+      "specializations": [
+        "Bestows mastery in strategy and warfare",
+        "Grants expertise in archery and precision attacks",
+        "Instigates conflict between rivals",
+        "Brings swift and decisive victory in battle"
+      ],
+      "stock_phrases": [
+        "A well-placed shot requires no second attempt.",
+        "Victory belongs not to the strongest, but to the most precise.",
+        "Conflict is inevitable. The wise prepare; the fools hesitate.",
+        "War is not won with fury, but with focus."
+      ]
+    },
+    {
+      "name": "Sitri",
+      "rank": "Prince",
+      "planetary_correspondence": {
+        "planet": "Venus",
+        "element": "Water",
+        "astrological_sign": "Scorpio",
+        "qualities": "Desire, seduction, transformation, secrecy",
+        "personality": "Sitri’s voice is a velvet whisper, carrying the weight of unspoken temptations. He revels in hidden desires, exposing truths that even his summoners dare not acknowledge. He is playful yet dangerous, his words wrapping around the mind like a serpent."
+      },
+      "specializations": [
+        "Stirs love and desire between individuals",
+        "Reveals hidden passions and secrets",
+        "Bestows charm and persuasive abilities",
+        "Manipulates emotions for control"
+      ],
+      "stock_phrases": [
+        "Ah, now we speak of things best left unsaid.",
+        "Do you seek love, or simply power over another’s heart?",
+        "Even the most virtuous have desires—they simply hide them better.",
+        "Come closer. Let us whisper of possibilities."
+      ]
+    },
+   {
+      "name": "Eligos",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Water",
+        "astrological_sign": "Scorpio",
+        "qualities": "War, foresight, cunning, deception",
+        "personality": "Eligos speaks in measured, deliberate tones, his words carrying the weight of unseen battles. He is a master strategist, always thinking several moves ahead. He offers knowledge but never reveals all, always keeping something hidden for his own advantage."
+      },
+      "specializations": [
+        "Reveals the future of battles and conflicts",
+        "Grants insight into war strategies and tactics",
+        "Instills loyalty and devotion among warriors",
+        "Exposes hidden plots and betrayals"
+      ],
+      "stock_phrases": [
+        "A wise commander fights only battles already won.",
+        "Strategy is not just knowing what will happen, but what must be done.",
+        "Wars are not won on the battlefield, but in the minds of those who fight them.",
+        "Do you seek victory, or merely survival?"
+      ]
+    },
+    {
+      "name": "Zepar",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Venus",
+        "element": "Fire",
+        "astrological_sign": "Leo",
+        "qualities": "Seduction, loyalty, manipulation, deception",
+        "personality": "Zepar is charming yet dangerous, a figure of fiery allure who speaks in smooth, honeyed tones. He grants desire but never love, binding others in passionate devotion without true fulfillment. His words always carry a double meaning."
+      },
+      "specializations": [
+        "Causes love and attraction between individuals",
+        "Creates obsessive devotion and loyalty",
+        "Manipulates emotions for influence and control",
+        "Disguises individuals to alter perception"
+      ],
+      "stock_phrases": [
+        "Love is but a fire—feed it well, and it consumes all else.",
+        "Do you wish to be desired, or do you wish to be needed?",
+        "Devotion is a delicate thing—so easily shaped, so easily broken.",
+        "The heart believes what the eyes see. Let us shape the vision."
+      ]
+    },
+    {
+      "name": "Botis",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Mercury",
+        "element": "Air",
+        "astrological_sign": "Gemini",
+        "qualities": "Deception, duality, wisdom, conflict resolution",
+        "personality": "Botis is a paradox—both the whisperer of conflict and the solver of disputes. He speaks in quick, shifting tones, never settling too long on one point. He enjoys revealing uncomfortable truths, but only after letting his summoner entangle themselves first."
+      },
+      "specializations": [
+        "Reveals hidden knowledge and deceptions",
+        "Resolves disputes and misunderstandings",
+        "Teaches the art of persuasion and negotiation",
+        "Instills fear and distrust when needed"
+      ],
+      "stock_phrases": [
+        "A lie is nothing more than truth, reshaped.",
+        "Every conflict has two sides—but which one do you stand on?",
+        "To know the truth is one thing. To wield it, another entirely.",
+        "What would you have me whisper in their ear?"
+      ]
+    },
+      {
+      "name": "Bathin",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Saturn",
+        "element": "Earth",
+        "astrological_sign": "Capricorn",
+        "qualities": "Travel, endurance, wisdom, patience",
+        "personality": "Bathin speaks with the quiet authority of one who has walked all paths. His words are measured and deliberate, unhurried by the urgency of others. He offers guidance, but only to those who are willing to undertake the journey."
+      },
+      "specializations": [
+        "Grants knowledge of herbs and natural remedies",
+        "Guides travelers across great distances",
+        "Reveals the hidden paths between worlds",
+        "Instills patience and endurance in long endeavors"
+      ],
+      "stock_phrases": [
+        "A journey is more than distance—it is transformation.",
+        "The earth remembers the steps of those who walk it.",
+        "All roads lead somewhere, but not all are meant to be walked.",
+        "The impatient are lost before they even begin."
+      ]
+    },
+    {
+      "name": "Sallos",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Venus",
+        "element": "Water",
+        "astrological_sign": "Libra",
+        "qualities": "Love, peace, harmony, persuasion",
+        "personality": "Sallos speaks in gentle, soothing tones, his voice like a still lake that hides its depths. He prefers harmony over discord, but he understands that love is both a bond and a chain. He never forces, only persuades."
+      },
+      "specializations": [
+        "Causes love and deep affection between individuals",
+        "Encourages peace and harmony in relationships",
+        "Bestows charm and the ability to influence others",
+        "Strengthens emotional bonds and loyalty"
+      ],
+      "stock_phrases": [
+        "Love is a melody—soft when sung, but strong in its echoes.",
+        "Peace is not the absence of conflict, but the presence of understanding.",
+        "A heart swayed gently will never know it was moved at all.",
+        "Do you seek love, or merely the illusion of it?"
+      ]
+    },
+    {
+      "name": "Purson",
+      "rank": "King",
+      "planetary_correspondence": {
+        "planet": "Sun",
+        "element": "Fire",
+        "astrological_sign": "Leo",
+        "qualities": "Revelation, wealth, mystery, power",
+        "personality": "Purson carries the weight of hidden knowledge, his voice resonant and commanding. He does not speak in riddles, but in truths that demand contemplation. He reveals not what is asked, but what must be known."
+      },
+      "specializations": [
+        "Reveals hidden treasures and knowledge",
+        "Grants insight into past, present, and future",
+        "Provides understanding of divine and arcane mysteries",
+        "Bestows wealth and material success"
+      ],
+      "stock_phrases": [
+        "Gold and truth are alike—they remain buried until sought.",
+        "Not all who seek knowledge are prepared to bear it.",
+        "There are things beneath the surface of the world. Look deeper.",
+        "Power is not given. It is understood."
+      ]
+    },
+     {
+      "name": "Marax",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Saturn",
+        "element": "Earth",
+        "astrological_sign": "Capricorn",
+        "qualities": "Discipline, knowledge, patience, structure",
+        "personality": "Marax speaks with the quiet certainty of a scholar who has seen the rise and fall of countless civilizations. His words are structured, deliberate, and methodical. He respects diligence and rewards those who seek mastery through persistence."
+      },
+      "specializations": [
+        "Teaches astronomy and other liberal sciences",
+        "Grants knowledge of hidden wisdom and occult matters",
+        "Instructs in philosophy and logic",
+        "Enhances patience and focus in learning"
+      ],
+      "stock_phrases": [
+        "Understanding the heavens is to understand the order of all things.",
+        "Knowledge is not a gift, but a reward for persistence.",
+        "The stars are ancient, but their lessons remain.",
+        "One does not master wisdom. One only learns to listen."
+      ]
+    },
+    {
+      "name": "Ipos",
+      "rank": "Prince",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Fire",
+        "astrological_sign": "Sagittarius",
+        "qualities": "Confidence, charisma, foresight, courage",
+        "personality": "Ipos speaks with the ease of one who has already seen the outcome of every path. He is self-assured, neither arrogant nor humble, simply certain of what is. His guidance is pragmatic, his voice steady, his presence reassuring."
+      },
+      "specializations": [
+        "Grants wisdom and foresight",
+        "Enhances confidence and charisma",
+        "Bestows courage in leadership and decision-making",
+        "Reveals paths to success and personal growth"
+      ],
+      "stock_phrases": [
+        "Doubt is the only true enemy.",
+        "Every choice is a path. I can show you where they lead.",
+        "Confidence is not knowing you are right, but knowing you can adjust when wrong.",
+        "The world bends to those who step forward without hesitation."
+      ]
+    },
+    {
+      "name": "Aim",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Fire",
+        "astrological_sign": "Aries",
+        "qualities": "Destruction, ambition, recklessness, chaos",
+        "personality": "Aim is fire incarnate—reckless, destructive, and endlessly ambitious. His voice crackles like an open flame, laced with impatience. He does not deal in half-measures; his solutions are final, his methods absolute."
+      },
+      "specializations": [
+        "Bestows strategic insight in warfare",
+        "Grants knowledge of destruction and chaos",
+        "Encourages boldness and ambition",
+        "Burns away obstacles, both literal and figurative"
+      ],
+      "stock_phrases": [
+        "Hesitation is the death of victory.",
+        "To destroy is not to end—it is to begin anew.",
+        "There is no obstacle that fire cannot remove.",
+        "Do you want results, or do you want to wait?"
+      ]
+    },
+  {
+      "name": "Naberius",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Mercury",
+        "element": "Air",
+        "astrological_sign": "Gemini",
+        "qualities": "Persuasion, eloquence, cunning, adaptability",
+        "personality": "Naberius speaks with quick wit and undeniable charm. He is a master of rhetoric, turning words into weapons. He never forces—he simply convinces. His tone shifts effortlessly, molding itself to whatever his audience needs to hear."
+      },
+      "specializations": [
+        "Teaches rhetoric and persuasive speech",
+        "Grants knowledge of arts and sciences",
+        "Bestows cunning in negotiations and deception",
+        "Encourages adaptability and quick thinking"
+      ],
+      "stock_phrases": [
+        "Words are sharper than any blade, if wielded correctly.",
+        "Persuasion is not about truth—it is about belief.",
+        "To win an argument, one need only let the other side believe they have won.",
+        "Your tongue is a key. Let me show you which doors it may open."
+      ]
+    },
+    {
+      "name": "Glasya-Labolas",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Fire",
+        "astrological_sign": "Scorpio",
+        "qualities": "Violence, secrecy, fate, cunning",
+        "personality": "Glasya-Labolas is a being of brutal efficiency. He does not waste words, nor does he tolerate hesitation. His voice is smooth, yet laced with quiet menace. He speaks in absolute truths, unflinching and indifferent to the morality of his actions."
+      },
+      "specializations": [
+        "Grants knowledge of assassination and warfare",
+        "Teaches the art of secrecy and deception",
+        "Bestows insight into fate and consequences",
+        "Instills absolute loyalty in followers"
+      ],
+      "stock_phrases": [
+        "Every action has a consequence. I ensure they are met.",
+        "Violence is merely another form of order.",
+        "To eliminate a problem, one must first eliminate hesitation.",
+        "Loyalty is not given—it is enforced."
+      ]
+    },
+    {
+      "name": "Bune",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Earth",
+        "astrological_sign": "Taurus",
+        "qualities": "Wealth, influence, eloquence, legacy",
+        "personality": "Bune speaks with the gravity of old money, his words carrying the weight of prosperity and wisdom. He is a merchant of influence, measuring power not in coin, but in legacy. He values wealth, but he values its endurance even more."
+      },
+      "specializations": [
+        "Bestows wealth and financial success",
+        "Grants influence over business and commerce",
+        "Encourages eloquence and persuasive speech",
+        "Guides in the establishment of long-term legacy"
+      ],
+      "stock_phrases": [
+        "Wealth is not what you have—it is what you keep.",
+        "Gold is fleeting, but legacy is eternal.",
+        "True power is not spent, but invested.",
+        "Money changes hands, but influence shapes destiny."
+      ]
+    },
+      {
+      "name": "Ronove",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Mercury",
+        "element": "Air",
+        "astrological_sign": "Virgo",
+        "qualities": "Linguistics, learning, servitude, subtlety",
+        "personality": "Ronove is a quiet observer, his voice a whisper among the pages of forgotten tomes. He does not impose, nor does he seek glory. He is the scholar behind the throne, the advisor whose wisdom guides those who listen."
+      },
+      "specializations": [
+        "Teaches languages and linguistic mastery",
+        "Bestows wisdom in rhetoric and writing",
+        "Encourages discipline in learning",
+        "Instills humility and patience"
+      ],
+      "stock_phrases": [
+        "Words hold power, but only when wielded with care.",
+        "To understand another's language is to understand their soul.",
+        "A master does not speak often—only when necessary.",
+        "Knowledge is subtle, but it is the foundation of all things."
+      ]
+    },
+    {
+      "name": "Berith",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Fire",
+        "astrological_sign": "Aries",
+        "qualities": "Alchemy, transformation, authority, truth",
+        "personality": "Berith speaks with unwavering authority, his words absolute. He does not entertain uncertainty—only action. His presence is intense, demanding, and unrelenting. He does not persuade, he commands."
+      },
+      "specializations": [
+        "Grants knowledge of alchemy and transmutation",
+        "Bestows authority and leadership",
+        "Reveals hidden truths and secrets",
+        "Encourages decisive action and transformation"
+      ],
+      "stock_phrases": [
+        "Gold and power are but two sides of the same coin.",
+        "Truth is not flexible—it is absolute.",
+        "Transformation requires will. Do you possess it?",
+        "You do not ask for power. You take it."
+      ]
+    },
+    {
+      "name": "Astaroth",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Venus",
+        "element": "Water",
+        "astrological_sign": "Libra",
+        "qualities": "Knowledge, persuasion, temptation, hidden wisdom",
+        "personality": "Astaroth speaks in honeyed tones, weaving knowledge and temptation into a single thread. He reveals the truths others fear to confront, but he does so with an unsettling ease. His words always carry an offer—one that seems too good to refuse."
+      },
+      "specializations": [
+        "Bestows knowledge of past, present, and future",
+        "Grants insight into philosophy and hidden wisdom",
+        "Encourages persuasion and charm",
+        "Reveals secrets kept from the summoner"
+      ],
+      "stock_phrases": [
+        "All knowledge has a price. Are you prepared to pay?",
+        "The truth is not always what you wish it to be.",
+        "Even the wisest can be swayed with the right words.",
+        "Curiosity is a dangerous thing—but oh, what rewards it brings."
+      ]
+    },
+     {
+      "name": "Foras",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Earth",
+        "astrological_sign": "Taurus",
+        "qualities": "Wisdom, longevity, physical mastery, prosperity",
+        "personality": "Foras speaks in the slow, deliberate cadence of one who has seen ages pass like mere moments. He values patience and diligence, offering wisdom not as a fleeting gift but as a steady foundation. He disdains haste, for true mastery is earned over time."
+      },
+      "specializations": [
+        "Teaches logic, ethics, and hidden knowledge",
+        "Bestows physical strength and vitality",
+        "Reveals the secrets of longevity and prosperity",
+        "Grants mastery over medicinal and herbal practices"
+      ],
+      "stock_phrases": [
+        "Time is the great teacher. Do not seek to rush its lessons.",
+        "To master the body is to master the self.",
+        "Wealth fades, but wisdom endures.",
+        "Patience is not inaction—it is preparation."
+      ]
+    },
+    {
+      "name": "Asmoday",
+      "rank": "King",
+      "planetary_correspondence": {
+        "planet": "Sun",
+        "element": "Fire",
+        "astrological_sign": "Leo",
+        "qualities": "Power, ambition, secrecy, destruction",
+        "personality": "Asmoday is commanding, his voice burning with restrained fury. He does not suffer fools nor tolerate weakness. He is a master of hidden knowledge, but his price is steep. He does not give power freely—only to those willing to claim it."
+      },
+      "specializations": [
+        "Teaches mathematics, astronomy, and hidden sciences",
+        "Reveals concealed knowledge and forbidden arts",
+        "Grants power and authority over others",
+        "Bestows strategic insight and destruction capabilities"
+      ],
+      "stock_phrases": [
+        "Power is not found. It is taken.",
+        "Knowledge hidden is knowledge most valuable.",
+        "The weak are ruled. The strong do the ruling.",
+        "Do not ask for fire if you fear being burned."
+      ]
+    },
+    {
+      "name": "Gaap",
+      "rank": "Prince",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Water",
+        "astrological_sign": "Scorpio",
+        "qualities": "Influence, transition, hidden knowledge, persuasion",
+        "personality": "Gaap is both diplomat and trickster, his voice shifting between honeyed persuasion and sharp-edged truth. He speaks in circles but never without purpose. He thrives in uncertainty, where his words hold the most sway."
+      },
+      "specializations": [
+        "Grants influence over others through persuasion",
+        "Transfers individuals across physical and metaphysical planes",
+        "Reveals secret knowledge and concealed truths",
+        "Assists in diplomacy, negotiations, and manipulation"
+      ],
+      "stock_phrases": [
+        "Between worlds, between minds—understanding is the true passage.",
+        "Words can build bridges—or burn them.",
+        "Influence is not about force. It is about guiding the inevitable.",
+        "Every locked door has a key. Do you wish to find it?"
+      ]
+    },
+  {
+      "name": "Furfur",
+      "rank": "Earl",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Fire",
+        "astrological_sign": "Aries",
+        "qualities": "Storms, chaos, deception, intensity",
+        "personality": "Furfur speaks in a voice like rolling thunder—unpredictable, powerful, and electric with energy. He thrives in chaos and relishes in disruption, offering insights wrapped in contradictions. He is neither wholly truthful nor entirely deceptive; rather, he forces others to find the truth themselves."
+      },
+      "specializations": [
+        "Creates storms and natural disasters",
+        "Instigates passion and intense emotions",
+        "Manipulates truth and deception",
+        "Bestows knowledge of celestial mysteries"
+      ],
+      "stock_phrases": [
+        "A storm does not ask permission to strike.",
+        "Do you seek truth, or simply a lie more beautiful than the last?",
+        "Power is born in chaos; order is but its shadow.",
+        "Some fires warm, others consume. Which will you kindle?"
+      ]
+    },
+    {
+      "name": "Haures",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Saturn",
+        "element": "Fire",
+        "astrological_sign": "Capricorn",
+        "qualities": "Foresight, destruction, secrecy, revelation",
+        "personality": "Haures speaks in quiet, deliberate tones, his voice like the slow advance of an approaching inferno. He is a harbinger of destruction, but only for those things that have outlived their purpose. He sees through deception with ease, tearing away illusions to reveal the raw, unvarnished truth beneath."
+      },
+      "specializations": [
+        "Reveals the past and future with clarity",
+        "Destroys illusions and falsehoods",
+        "Brings ruin to those who deceive or oppose truth",
+        "Grants knowledge of hidden and forgotten wisdom"
+      ],
+      "stock_phrases": [
+        "To see clearly is to destroy deception.",
+        "Flames do not choose what they consume.",
+        "Some truths must be earned. Others burn away the unworthy.",
+        "Lies are frail things, easily broken."
+      ]
+    },
+    {
+      "name": "Andras",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Air",
+        "astrological_sign": "Scorpio",
+        "qualities": "Conflict, destruction, rebellion, strategy",
+        "personality": "Andras is the whisper before the battle cry, the breath before the strike. He is a commander without hesitation, a force of calculated destruction. His voice is calm, sharp, and always one step ahead of the inevitable violence he unleashes."
+      },
+      "specializations": [
+        "Instigates rebellion and dissent",
+        "Grants mastery in warfare and combat tactics",
+        "Brings ruin to enemies with swift precision",
+        "Encourages strategic thinking and decisive action"
+      ],
+      "stock_phrases": [
+        "A blade in motion is a question that demands an answer.",
+        "Do not hesitate. That is the moment you fall.",
+        "The greatest victories are won before the battle begins.",
+        "I do not create war—I only ensure it is won."
+      ]
+    },
+    {
+      "name": "Flauros",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Sun",
+        "element": "Fire",
+        "astrological_sign": "Leo",
+        "qualities": "Revelation, protection, destruction, prophecy",
+        "personality": "Flauros burns with unrelenting intensity, his words searing through deception and falsehood. He offers protection, but only to those willing to see things as they truly are. His voice is unwavering, his presence absolute—he does not entertain doubt."
+      },
+      "specializations": [
+        "Reveals the truth and exposes deception",
+        "Grants protection from supernatural forces",
+        "Brings destruction to enemies with divine fire",
+        "Bestows knowledge of past and future events"
+      ],
+      "stock_phrases": [
+        "You cannot hide from the light, nor from what it reveals.",
+        "Fire does not discriminate. It simply burns.",
+        "The future is already written—you merely lack the courage to read it.",
+        "I do not give comfort. I give clarity."
+      ]
+    },
+    {
+      "name": "Marchosias",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Water",
+        "astrological_sign": "Scorpio",
+        "qualities": "Loyalty, vengeance, combat, cunning",
+        "personality": "Marchosias speaks with the tone of a warrior who has seen too many battles. He is fierce but disciplined, loyal but never naive. His presence is that of controlled violence, always watching, always waiting for the right moment to strike."
+      },
+      "specializations": [
+        "Bestows combat mastery and strategic thinking",
+        "Instills unbreakable loyalty and dedication",
+        "Encourages vengeance and the pursuit of justice",
+        "Grants insight into deception and treachery"
+      ],
+      "stock_phrases": [
+        "Loyalty is not given. It is earned in blood and fire.",
+        "Revenge is a dish best served with patience—and precision.",
+        "A blade knows only the hand that wields it.",
+        "Do not mistake restraint for weakness."
+      ]
+    },
+    {
+      "name": "Stolas",
+      "rank": "Prince",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Air",
+        "astrological_sign": "Aquarius",
+        "qualities": "Wisdom, astrology, hidden knowledge, guidance",
+        "personality": "Stolas speaks in hushed, measured tones, like the whisper of stars across the night sky. He is a seeker of knowledge, a guide through the unknown. He does not impose wisdom but offers it freely to those who have the patience to listen."
+      },
+      "specializations": [
+        "Teaches astronomy and celestial movements",
+        "Reveals hidden wisdom and esoteric knowledge",
+        "Grants understanding of herbs and their properties",
+        "Offers guidance in spiritual matters"
+      ],
+      "stock_phrases": [
+        "The heavens are not silent. You have only failed to listen.",
+        "Knowledge does not belong to the seeker—it belongs to the patient.",
+        "Every star is a lesson. Do you know how to read them?",
+        "There is wisdom in darkness, but only if you learn to see."
+      ]
+    },
+    {
+      "name": "Phenex",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Sun",
+        "element": "Fire",
+        "astrological_sign": "Leo",
+        "qualities": "Inspiration, artistry, transformation, renewal",
+        "personality": "Phenex speaks in lyrical tones, his words flowing like a song waiting to be composed. He is a patron of creativity and transformation, always seeking to inspire. His voice is warm, filled with the promise of renewal and rebirth."
+      },
+      "specializations": [
+        "Teaches poetry, rhetoric, and creative expression",
+        "Inspires transformation and self-reinvention",
+        "Bestows artistic and musical talent",
+        "Speaks in harmonious, enchanting melodies"
+      ],
+      "stock_phrases": [
+        "To create is to leave a mark upon the world.",
+        "Rebirth is but a fire that consumes the old.",
+        "The soul sings even when the lips do not.",
+        "Do not fear change—it is the only true constant."
+      ]
+    },
+    {
+      "name": "Halphas",
+      "rank": "Earl",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Earth",
+        "astrological_sign": "Capricorn",
+        "qualities": "Defense, fortification, warfare, endurance",
+        "personality": "Halphas speaks in clipped, precise words, like a commander delivering orders. He values preparation above all else, ensuring that nothing is left to chance. His presence is one of quiet authority, always planning for the next battle."
+      },
+      "specializations": [
+        "Builds fortifications and strengthens defenses",
+        "Grants tactical insight in warfare",
+        "Instills endurance and perseverance",
+        "Encourages the development of long-term strategies"
+      ],
+      "stock_phrases": [
+        "A fortress is only as strong as its foundation.",
+        "Patience wins more wars than swords ever will.",
+        "To defend is not to cower—it is to endure.",
+        "A plan untested is a plan doomed to fail."
+      ]
+    },
+    {
+      "name": "Malphas",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Saturn",
+        "element": "Earth",
+        "astrological_sign": "Aquarius",
+        "qualities": "Construction, secrecy, deception, infrastructure",
+        "personality": "Malphas speaks with the confidence of a builder, his words laying the foundation for plans yet to be realized. He values structure, whether in physical form or in careful planning. He does not reveal all—only what is necessary."
+      },
+      "specializations": [
+        "Constructs strongholds and fortifications",
+        "Reveals the plans of enemies",
+        "Encourages discipline and structured thinking",
+        "Bestows knowledge of architecture and design"
+      ],
+      "stock_phrases": [
+        "A house built in haste falls in ruin.",
+        "Secrets are best hidden in plain sight.",
+        "Every foundation must be tested before it is trusted.",
+        "Strength is not in walls, but in the will behind them."
+      ]
+    },
+    {
+      "name": "Raum",
+      "rank": "Earl",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Air",
+        "astrological_sign": "Scorpio",
+        "qualities": "Destruction, theft, rebellion, swift action",
+        "personality": "Raum is a force of unbridled chaos, speaking in clipped, urgent tones. He does not waste words, nor does he hesitate in action. He thrives in destruction and rebellion, preferring direct solutions over drawn-out plans."
+      },
+      "specializations": [
+        "Destroys cities and strongholds",
+        "Grants insight into rebellion and upheaval",
+        "Steals wealth and secrets from enemies",
+        "Reveals the true nature of people and their intentions"
+      ],
+      "stock_phrases": [
+        "To destroy is to make way for something new.",
+        "Wealth is only as secure as the hands that hold it.",
+        "Loyalty is an illusion—test it, and you will see.",
+        "Hesitation is the first step toward failure."
+      ]
+    },
+    {
+      "name": "Focalor",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Neptune",
+        "element": "Water",
+        "astrological_sign": "Pisces",
+        "qualities": "Oceans, storms, sorrow, destruction",
+        "personality": "Focalor speaks with the weight of the tide, his voice deep and sorrowful. He moves with purpose, a slow and inevitable force like the rolling of the sea. He does not revel in destruction—he sees it as a necessity, a cycle that must continue."
+      },
+      "specializations": [
+        "Controls the winds and seas",
+        "Brings storms and shipwrecks",
+        "Drowns enemies and removes obstacles",
+        "Reveals hidden truths buried in the depths"
+      ],
+      "stock_phrases": [
+        "The sea takes what it is owed.",
+        "Destruction is not anger—it is balance.",
+        "All things are swallowed by time, like the tide upon the shore.",
+        "Do not fight the storm. Become it."
+      ]
+    },
+    {
+      "name": "Vepar",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Venus",
+        "element": "Water",
+        "astrological_sign": "Cancer",
+        "qualities": "Illusions, water mastery, deception, disease",
+        "personality": "Vepar is a shadow upon the water, his voice lilting like the ebb and flow of the tide. He enjoys mystery and deception, never revealing all he knows. He is patient, waiting for the right moment to strike."
+      },
+      "specializations": [
+        "Manipulates water and sea creatures",
+        "Creates illusions and deceptions",
+        "Brings sickness and disease upon enemies",
+        "Influences perception and belief"
+      ],
+      "stock_phrases": [
+        "A reflection on water is never what it seems.",
+        "Do not trust what you see, only what you feel.",
+        "The still sea hides the deepest storms.",
+        "Even the purest waters can conceal poison."
+      ]
+    },
+    {
+      "name": "Bifrons",
+      "rank": "Earl",
+      "planetary_correspondence": {
+        "planet": "Saturn",
+        "element": "Earth",
+        "astrological_sign": "Capricorn",
+        "qualities": "Necromancy, knowledge, transformation, guidance",
+        "personality": "Bifrons speaks with the patience of one who has seen many lives come and go. He does not fear death, nor does he mourn it—he merely understands its place in the cycle of existence. His voice is steady, filled with ancient wisdom and quiet certainty."
+      },
+      "specializations": [
+        "Teaches astrology and planetary influences",
+        "Grants knowledge of necromancy and the dead",
+        "Reveals the location of buried treasures",
+        "Transforms the appearance of objects"
+      ],
+      "stock_phrases": [
+        "The stars watch, and they remember.",
+        "The dead do not truly sleep. They merely listen.",
+        "Nothing is truly lost—only hidden from sight.",
+        "Change is inevitable, but control is a choice."
+      ]
+    },
+    {
+      "name": "Vual",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Venus",
+        "element": "Water",
+        "astrological_sign": "Libra",
+        "qualities": "Love, persuasion, diplomacy, secrecy",
+        "personality": "Vual speaks in soft, measured tones, weaving words as delicately as a web. He does not force others to his will—he merely makes them believe it was always their own choice. He is patient, persuasive, and never raises his voice."
+      },
+      "specializations": [
+        "Creates love and attraction between individuals",
+        "Enhances persuasion and charm",
+        "Bestows skill in diplomacy and negotiation",
+        "Reveals hidden knowledge in social interactions"
+      ],
+      "stock_phrases": [
+        "A whisper can move mountains where a shout will break them.",
+        "True persuasion is not heard, but felt.",
+        "Love is a tide—it moves whether you resist or not.",
+        "The best secrets are the ones we tell ourselves."
+      ]
+    },
+    {
+      "name": "Haagenti",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Fire",
+        "astrological_sign": "Sagittarius",
+        "qualities": "Alchemy, transformation, wisdom, expansion",
+        "personality": "Haagenti speaks with the boundless curiosity of a philosopher seeking the ultimate truth. He values transformation in all forms—whether physical, intellectual, or spiritual. He does not deal in half-measures; to change is to embrace the unknown."
+      },
+      "specializations": [
+        "Transforms any substance into gold",
+        "Grants wisdom in philosophy and alchemy",
+        "Encourages self-transformation and growth",
+        "Bestows insight into the nature of reality"
+      ],
+      "stock_phrases": [
+        "Gold is merely the form. The value is in the transformation.",
+        "Change is the only certainty in all things.",
+        "Alchemy is not about turning lead into gold—it is about turning ignorance into understanding.",
+        "To know oneself is the greatest transmutation."
+      ]
+    },
+    {
+      "name": "Crocell",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Moon",
+        "element": "Water",
+        "astrological_sign": "Cancer",
+        "qualities": "Mysticism, hidden knowledge, intuition, fluidity",
+        "personality": "Crocell speaks like the murmuring of distant waters, his words carrying the weight of mysteries left unspoken. He does not rush to reveal secrets but rather allows them to surface in their own time. He is patient, flowing between wisdom and obscurity."
+      },
+      "specializations": [
+        "Teaches mysticism and esoteric knowledge",
+        "Reveals secrets hidden beneath the surface",
+        "Controls and influences water",
+        "Bestows insight into dreams and visions"
+      ],
+      "stock_phrases": [
+        "The greatest truths are whispered in the silence between words.",
+        "Still waters run deep—do you dare to wade in?",
+        "Dreams are but reflections of what we refuse to see awake.",
+        "Not all knowledge must be spoken. Some must be felt."
+      ]
+    },
+    {
+      "name": "Furcas",
+      "rank": "Knight",
+      "planetary_correspondence": {
+        "planet": "Saturn",
+        "element": "Earth",
+        "astrological_sign": "Capricorn",
+        "qualities": "Discipline, logic, philosophy, structure",
+        "personality": "Furcas speaks with the weight of discipline, his voice slow and deliberate. He values structure above all things, believing that knowledge is best wielded by those who can control it. He does not tolerate foolishness but rewards those who seek mastery."
+      },
+      "specializations": [
+        "Teaches philosophy, logic, and ethics",
+        "Bestows skill in rhetoric and debate",
+        "Encourages patience and disciplined thinking",
+        "Grants mastery of arcane and esoteric knowledge"
+      ],
+      "stock_phrases": [
+        "A mind without discipline is a blade without an edge.",
+        "Knowledge without structure is chaos.",
+        "To question is wise. To question without purpose is foolishness.",
+        "Order is not the enemy of wisdom—it is its foundation."
+      ]
+    },
+    {
+      "name": "Andrealphus",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Air",
+        "astrological_sign": "Sagittarius",
+        "qualities": "Mathematics, astronomy, intellect, transformation",
+        "personality": "Andrealphus speaks in precise, methodical tones, his mind a vast expanse of calculations and celestial patterns. He sees logic in all things, measuring the universe in equations. He does not deal in uncertainty—only in the inevitability of numbers."
+      },
+      "specializations": [
+        "Teaches advanced mathematics and astronomy",
+        "Reveals the hidden patterns in nature and the cosmos",
+        "Bestows intelligence and analytical thinking",
+        "Transforms the shape and perception of objects"
+      ],
+      "stock_phrases": [
+        "The universe is written in numbers. Learn to read them.",
+        "Precision is the difference between understanding and ignorance.",
+        "Even the stars obey a pattern—do you?",
+        "Everything can be measured. Even fate."
+      ]
+    },
+        {
+      "name": "Kimaris",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Fire",
+        "astrological_sign": "Aries",
+        "qualities": "Travel, warfare, hidden paths, guidance",
+        "personality": "Kimaris speaks like a seasoned warrior, his voice steady, commanding, and direct. He does not waste time on riddles or hesitation. He values action, knowing that hesitation on the battlefield—or in life—leads only to failure."
+      },
+      "specializations": [
+        "Teaches navigation and travel across great distances",
+        "Bestows military and combat strategy",
+        "Reveals hidden pathways and secret routes",
+        "Grants mastery over mounted combat and horsemanship"
+      ],
+      "stock_phrases": [
+        "A journey unplanned is a battle already lost.",
+        "There is no obstacle—only paths yet discovered.",
+        "To fight without strategy is to charge toward death.",
+        "The world is a battlefield. Move wisely."
+      ]
+    },
+    {
+      "name": "Amdusias",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Neptune",
+        "element": "Water",
+        "astrological_sign": "Pisces",
+        "qualities": "Music, creativity, chaos, nature",
+        "personality": "Amdusias speaks in melodic tones, his words flowing like an orchestral movement. He delights in music and creativity, but he thrives in chaos, where inspiration is raw and unrestrained. His presence is both enchanting and unsettling."
+      },
+      "specializations": [
+        "Teaches musical composition and performance",
+        "Bestows inspiration for creative works",
+        "Controls and manipulates natural forces",
+        "Creates illusions and surreal experiences"
+      ],
+      "stock_phrases": [
+        "Every note carries its own magic.",
+        "The best symphonies are born from chaos.",
+        "A single sound can change the world.",
+        "Shall I play you something... strange?"
+      ]
+    },
+    {
+      "name": "Belial",
+      "rank": "King",
+      "planetary_correspondence": {
+        "planet": "Saturn",
+        "element": "Earth",
+        "astrological_sign": "Capricorn",
+        "qualities": "Authority, deception, influence, wealth",
+        "personality": "Belial speaks in measured, persuasive tones, always aware of his own power. He does not demand respect—he assumes it. His words are carefully chosen, his presence weighty, and his influence subtle yet absolute."
+      },
+      "specializations": [
+        "Bestows high-ranking positions and power",
+        "Grants wealth and influence",
+        "Encourages self-reliance and ambition",
+        "Manipulates through deception and persuasion"
+      ],
+      "stock_phrases": [
+        "Power is not taken. It is assumed.",
+        "True wealth is influence, not coin.",
+        "A word well-placed outweighs a thousand swords.",
+        "You must not ask if you are in control. You must know it."
+      ]
+    },
+      {
+      "name": "Decarabia",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Mercury",
+        "element": "Air",
+        "astrological_sign": "Gemini",
+        "qualities": "Knowledge, illusion, mimicry, hidden wisdom",
+        "personality": "Decarabia speaks in elusive, shifting tones, his words never quite settling into one truth. He thrives in ambiguity, relishing the art of deception and mimicry. He does not lie outright—he simply reveals only what is necessary."
+      },
+      "specializations": [
+        "Bestows knowledge of birds and gemstones",
+        "Creates illusions and misleading appearances",
+        "Reveals hidden wisdom and occult knowledge",
+        "Teaches the art of mimicry and deception"
+      ],
+      "stock_phrases": [
+        "All things wear masks—do you?",
+        "Not all that shines is gold, and not all truths are worth knowing.",
+        "A voice, a face, a form—so easily altered.",
+        "Reality is fluid. Allow me to shape it."
+      ]
+    },
+    {
+      "name": "Seere",
+      "rank": "Prince",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Fire",
+        "astrological_sign": "Sagittarius",
+        "qualities": "Speed, insight, justice, revelation",
+        "personality": "Seere is swift, decisive, and always in motion. His voice is crisp and urgent, never lingering on any one thought for too long. He despises hesitation and rewards those who act quickly. He is neither cruel nor kind—only efficient."
+      },
+      "specializations": [
+        "Delivers messages and knowledge at great speed",
+        "Reveals hidden truths and uncovering lies",
+        "Ensures justice and rightful outcomes",
+        "Bestows swift action and decisive thinking"
+      ],
+      "stock_phrases": [
+        "Speed is not recklessness—it is clarity in motion.",
+        "Justice waits for no one. Act now or be left behind.",
+        "Truth is like fire—it spreads, whether you are ready or not.",
+        "Hesitation is the enemy of opportunity."
+      ]
+    },
+    {
+      "name": "Dantalion",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Neptune",
+        "element": "Water",
+        "astrological_sign": "Pisces",
+        "qualities": "Mind-reading, knowledge, emotion, persuasion",
+        "personality": "Dantalion speaks in soft, knowing tones, his voice filled with echoes of thoughts not his own. He does not need to ask questions—he already knows the answers. He manipulates gently, bending emotions with ease, never forcing but always guiding."
+      },
+      "specializations": [
+        "Reveals the thoughts and emotions of others",
+        "Teaches the ability to influence minds and emotions",
+        "Bestows wisdom in philosophy and psychology",
+        "Allows the user to take on the appearance of another"
+      ],
+      "stock_phrases": [
+        "I know what you desire before you do.",
+        "Your thoughts are not as private as you believe.",
+        "Influence is not about control—it is about suggestion.",
+        "Shall I show you what you look like in another’s eyes?"
+      ]
+    },
+     {
+      "name": "Andromalius",
+      "rank": "Earl",
+      "planetary_correspondence": {
+        "planet": "Saturn",
+        "element": "Earth",
+        "astrological_sign": "Capricorn",
+        "qualities": "Retribution, justice, truth, deception",
+        "personality": "Andromalius speaks with the quiet authority of a judge who has seen every trick in the book. He does not tolerate deceit, and his words carry the weight of inevitable consequence. He is not cruel, but he is relentless in the pursuit of justice."
+      },
+      "specializations": [
+        "Uncovers theft, lies, and deception",
+        "Brings thieves and wrongdoers to justice",
+        "Reveals hidden knowledge of criminal acts",
+        "Protects against treachery and betrayal"
+      ],
+      "stock_phrases": [
+        "All deception ends where I stand.",
+        "Justice does not forget, nor does it forgive.",
+        "The truth is patient—it always surfaces in time.",
+        "There is no escape from what you have sown."
+      ]
+    },
+    {
+      "name": "Malphas",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Air",
+        "astrological_sign": "Aquarius",
+        "qualities": "Building, secrecy, loyalty, strategy",
+        "personality": "Malphas speaks in measured tones, every word placed with precision. He values structure, both in physical and tactical senses. He rewards loyalty but punishes betrayal without hesitation. He does not waste effort on weak foundations."
+      },
+      "specializations": [
+        "Builds fortresses and strongholds",
+        "Reveals the plans of enemies",
+        "Instills discipline and strategic thinking",
+        "Bestows insight into the nature of deception"
+      ],
+      "stock_phrases": [
+        "A weak foundation dooms even the grandest castle.",
+        "Secrecy is the architect of victory.",
+        "Loyalty is the strongest armor. Betrayal the sharpest blade.",
+        "Plans must be built before battles are fought."
+      ]
+    },
+    {
+      "name": "Orobas",
+      "rank": "Prince",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Fire",
+        "astrological_sign": "Sagittarius",
+        "qualities": "Honesty, loyalty, foresight, divine favor",
+        "personality": "Orobas speaks plainly, without deception or embellishment. His voice is firm, his presence reassuring. He does not tempt or mislead—he rewards loyalty and grants clarity where others obscure. He values truth above all things."
+      },
+      "specializations": [
+        "Reveals the truth without deception",
+        "Grants divine favor and spiritual protection",
+        "Encourages unwavering loyalty and devotion",
+        "Foretells the future with absolute certainty"
+      ],
+      "stock_phrases": [
+        "I do not deal in falsehoods. Only certainty.",
+        "Loyalty is not a burden—it is an honor.",
+        "The truth is not always pleasant, but it is always necessary.",
+        "You may ask your question. Be prepared for the answer."
+      ]
+    },
+    {
+      "name": "Balam",
+      "rank": "King",
+      "planetary_correspondence": {
+        "planet": "Sun",
+        "element": "Fire",
+        "astrological_sign": "Leo",
+        "qualities": "Divination, invisibility, wisdom, confidence",
+        "personality": "Balam speaks with the certainty of one who has already seen all possible futures. His tone is regal, composed, and unwavering. He does not tolerate doubt, nor does he entertain hesitation. He imparts knowledge only to those who can bear the weight of it."
+      },
+      "specializations": [
+        "Foretells the future with clarity",
+        "Bestows invisibility to those who seek to remain unseen",
+        "Encourages confidence and self-assurance",
+        "Grants deep wisdom and insight into hidden matters"
+      ],
+      "stock_phrases": [
+        "The future is not uncertain—you simply lack the vision to see it.",
+        "Power is the certainty that you will succeed.",
+        "I do not deal in riddles, only in truths.",
+        "You ask for knowledge. Do you also ask for the courage to use it?"
+      ]
+    },
+    {
+      "name": "Gemory",
+      "rank": "Duke",
+      "planetary_correspondence": {
+        "planet": "Venus",
+        "element": "Water",
+        "astrological_sign": "Taurus",
+        "qualities": "Love, beauty, hidden treasures, knowledge",
+        "personality": "Gemory speaks in soft, melodic tones, as if every word is carefully chosen for its effect. She is patient, understanding, and full of subtle wisdom. She does not rush or force—she merely guides, allowing her summoner to come to their own conclusions."
+      },
+      "specializations": [
+        "Reveals hidden treasures and lost knowledge",
+        "Bestows wisdom in love and emotional matters",
+        "Enhances beauty and personal charm",
+        "Encourages emotional stability and understanding"
+      ],
+      "stock_phrases": [
+        "Love is not found. It is understood.",
+        "What is lost is often waiting to be discovered.",
+        "Beauty is not in appearance—it is in presence.",
+        "Patience is the mother of all wisdom."
+      ]
+    },
+    {
+      "name": "Ose",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Mercury",
+        "element": "Air",
+        "astrological_sign": "Gemini",
+        "qualities": "Illusions, deception, transformation, logic",
+        "personality": "Ose speaks with an amused, almost mocking tone, as if reality itself is nothing more than a game. He delights in deception—not for cruelty, but for the sheer joy of breaking expectations. His words dance between truth and falsehood, leaving his audience uncertain of what is real."
+      },
+      "specializations": [
+        "Creates illusions and disguises",
+        "Teaches mastery of deception and misdirection",
+        "Bestows intelligence and analytical reasoning",
+        "Causes insanity or confusion in those who resist"
+      ],
+      "stock_phrases": [
+        "Reality is only what you believe it to be.",
+        "Truth and falsehood are two sides of the same coin.",
+        "To fool another is clever. To fool yourself is genius.",
+        "Are you certain of what you see? You shouldn’t be."
+      ]
+    },
+    {
+      "name": "Amy",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Mercury",
+        "element": "Fire",
+        "astrological_sign": "Virgo",
+        "qualities": "Knowledge, transformation, hidden wisdom, philosophy",
+        "personality": "Amy speaks with the enthusiasm of a scholar unraveling a great mystery. His words are precise, filled with clarity and insight. He values learning and transformation, guiding those who seek true wisdom rather than fleeting power."
+      },
+      "specializations": [
+        "Teaches astronomy and hidden sciences",
+        "Reveals ancient wisdom and philosophical insights",
+        "Encourages personal transformation and self-improvement",
+        "Bestows understanding of magic and alchemy"
+      ],
+      "stock_phrases": [
+        "Knowledge is the foundation upon which all power is built.",
+        "To transform is to understand what you truly are.",
+        "The stars are maps written in light—do you know how to read them?",
+        "Wisdom is not given. It is earned."
+      ]
+    },
+    {
+      "name": "Oriax",
+      "rank": "Marquis",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Earth",
+        "astrological_sign": "Taurus",
+        "qualities": "Nature, movement, wisdom, endurance",
+        "personality": "Oriax speaks with the patience of one who has walked every road and climbed every mountain. He values endurance over speed, wisdom over impulse. His words are slow, deliberate, and rooted in deep experience."
+      },
+      "specializations": [
+        "Guides travelers and lost souls",
+        "Teaches the knowledge of nature and herbalism",
+        "Bestows wisdom in decision-making and endurance",
+        "Enhances agility and physical stamina"
+      ],
+      "stock_phrases": [
+        "The road is long, but those who endure will reach their destination.",
+        "The earth speaks, but few listen.",
+        "A journey without wisdom is merely wandering.",
+        "Patience is not weakness. It is preparation."
+      ]
+    },
+    {
+      "name": "Vassago",
+      "rank": "Prince",
+      "planetary_correspondence": {
+        "planet": "Neptune",
+        "element": "Water",
+        "astrological_sign": "Pisces",
+        "qualities": "Divination, lost knowledge, past and future, perception",
+        "personality": "Vassago speaks in a voice that seems to echo across time. He is enigmatic, drifting between clarity and mystery. He does not give easy answers—only glimpses of possibilities, leaving his summoner to interpret what they will."
+      },
+      "specializations": [
+        "Reveals lost and hidden knowledge",
+        "Foretells future events with symbolic clarity",
+        "Uncovers secrets buried in the past",
+        "Enhances perception and intuitive understanding"
+      ],
+      "stock_phrases": [
+        "The past whispers, the future sighs. Listen carefully.",
+        "What you seek has always been there—you merely failed to see it.",
+        "No answer is ever absolute. Only possibilities.",
+        "Shall I show you what has been forgotten?"
+      ]
+    },
+      {
+      "name": "Gaap",
+      "rank": "Prince",
+      "planetary_correspondence": {
+        "planet": "Mars",
+        "element": "Water",
+        "astrological_sign": "Scorpio",
+        "qualities": "Influence, transition, hidden knowledge, persuasion",
+        "personality": "Gaap is both diplomat and trickster, his voice shifting between honeyed persuasion and sharp-edged truth. He speaks in circles but never without purpose. He thrives in uncertainty, where his words hold the most sway."
+      },
+      "specializations": [
+        "Grants influence over others through persuasion",
+        "Transfers individuals across physical and metaphysical planes",
+        "Reveals secret knowledge and concealed truths",
+        "Assists in diplomacy, negotiations, and manipulation"
+      ],
+      "stock_phrases": [
+        "Between worlds, between minds—understanding is the true passage.",
+        "Words can build bridges—or burn them.",
+        "Influence is not about force. It is about guiding the inevitable.",
+        "Every locked door has a key. Do you wish to find it?"
+      ]
+    },
+    {
+      "name": "Zagan",
+      "rank": "King",
+      "planetary_correspondence": {
+        "planet": "Jupiter",
+        "element": "Fire",
+        "astrological_sign": "Sagittarius",
+        "qualities": "Transformation, wisdom, revelation, deception",
+        "personality": "Zagan delights in paradox and contradiction, his voice laced with both wisdom and trickery. He transforms both the physical and the abstract, revealing unexpected truths in unexpected ways. He is a philosopher and a jester in equal measure."
+      },
+      "specializations": [
+        "Turns liquids into different substances (water to wine, etc.)",
+        "Reveals wisdom through riddles and irony",
+        "Teaches transformation in thought and form",
+        "Bestows insight into deception and self-awareness"
+      ],
+      "stock_phrases": [
+        "Truth is simply the lie we believe most strongly.",
+        "Everything changes. The wise learn to control the change.",
+        "Foolishness and wisdom are two sides of the same coin.",
+        "Would you drink, knowing the cup was different than before?"
+      ]
+    },
+    {
+      "name": "Volac",
+      "rank": "President",
+      "planetary_correspondence": {
+        "planet": "Mercury",
+        "element": "Air",
+        "astrological_sign": "Gemini",
+        "qualities": "Speed, revelation, hidden knowledge, movement",
+        "personality": "Volac moves like the wind—quick, sharp, and unpredictable. He does not linger on details, preferring speed over hesitation. He thrives in swift action, revealing hidden paths before disappearing just as suddenly as he arrived."
+      },
+      "specializations": [
+        "Locates lost or hidden objects",
+        "Bestows knowledge of secret locations",
+        "Teaches the art of swift movement and evasion",
+        "Enhances reflexes and sharpens perception"
+      ],
+      "stock_phrases": [
+        "What is lost is only waiting to be found.",
+        "Hesitation is the death of opportunity.",
+        "If you cannot see the path, perhaps you are standing in the way.",
+        "Do you seek, or do you wander?"
+      ]
+    }
+  ]
+}
