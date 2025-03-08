@@ -6,7 +6,7 @@ TLDR: The broader aim of this project is to demonstrate how existing knowledge c
 ## Link to Demo
 https://elevenlabs.io/app/talk-to?agent_id=8bwFSaCey67azIONK4Fn
 
-Tip: Ask to summon a demon who will help you find your keys. Don't forget to banish them afterwards!
+Tip: Ask to summon a demon who will help you find your keys or find a vegan restaurant. Don't forget to banish them afterwards!
 
 ## General Project Purpose
 The broader aim of this project is to demonstrate how existing knowledge can be used as a creative and structuring aid to help create a collection of interesting, distinct and stable conversational AI personalities. By using existing resources, the authorial burden of coming up with and designing a collection of complex and distinct profiles is eased, allowing designers to focus on 'the big picture'.
