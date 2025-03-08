@@ -5,7 +5,8 @@ TLDR: The broader aim of this project is to demonstrate how existing knowledge c
 
 ## Link to Demo
 https://elevenlabs.io/app/talk-to?agent_id=8bwFSaCey67azIONK4Fn
-currently not doing what I want it to :/
+
+Tip: Ask to summon a demon who will help you find your keys. Don't forget to banish them afterwards!
 
 ## General Project Purpose
 The broader aim of this project is to demonstrate how existing knowledge can be used as a creative and structuring aid to help create a collection of interesting, distinct and stable conversational AI personalities. By using existing resources, the authorial burden of coming up with and designing a collection of complex and distinct profiles is eased, allowing designers to focus on 'the big picture'.
@@ -25,6 +26,9 @@ There's of course an intriguing thematic parallel to draw between beliefs in his
 A problem that I ran into during this project was that the LLM wasn't able to generate the entire JSON of 72 demons in one go. The work-around was to generate the JSON in batches of 3 demons and copy-paste the file together by hand, then feed the complete file back into the LLM for further processing. This was a time consuming step but the silver lining was that I was able to read some of the demon info as I copy-pasted and got more familiar with the data. 
 
 I instructed the LLM to get information about 72 different demons from the Ars Goetia grimoire (https://en.wikipedia.org/wiki/The_Lesser_Key_of_Solomon#Ars_Goetia). Info about this is widely available online. I instruced the LLM to generate a draft where the demon information was structured into features for each demon in a JSON document, so that it can be used and reused in different applciations. However, I felt there was a lack of variation in the demons so I instructed the LLM to use astrology knowledge (also widely availble online) as a fast way to add varied personality features for each of demons. In theory, this helps to make each one more distinct in conversation interactions.
+
+The default eleven labs voices avaible for free were rubbish. So I prompted a new one of my own:
+
 
 ## Hackathon
 Designing and generating the demon JSON file and the project idea to develop conversational agents was done today only for the hackathon. 
