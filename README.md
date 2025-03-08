@@ -21,3 +21,12 @@ A problem that I ran into during this project was that the LLM wasn't able to ge
 ## Hackathon
 Designing and generating the demon JSON file and the project idea to develop conversational agents was done today only for the hackathon. 
 The general demon theme was inspired by a larger idea I have for a computer terminal and phone based game and where a player calls hell as a 1990s corporate call center.
+
+## Development Screenshots
+
+![image](https://github.com/user-attachments/assets/4a259056-946b-4a31-94d7-683f6f271f84)
+
+![image](https://github.com/user-attachments/assets/f010f0b1-723a-409a-930e-171dee9de199)
+
+![image](https://github.com/user-attachments/assets/35f73572-f831-48ee-b38a-210ade65b197)
+
