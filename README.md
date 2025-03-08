@@ -3,6 +3,10 @@ Demon themed conversational AI agents
 
 TLDR: The broader aim of this project is to demonstrate how existing knowledge can be used as a creative and structuring aid to help create a collection of interesting, distinct and stable conversational AI personalities. I focused on exisitings knowledge related to demonology and astrology as a shortcut to extracting personality features.
 
+## Link to Demo
+https://elevenlabs.io/app/talk-to?agent_id=8bwFSaCey67azIONK4Fn
+currently not doing what I want it to :/
+
 ## General Project Purpose
 The broader aim of this project is to demonstrate how existing knowledge can be used as a creative and structuring aid to help create a collection of interesting, distinct and stable conversational AI personalities. By using existing resources, the authorial burden of coming up with and designing a collection of complex and distinct profiles is eased, allowing designers to focus on 'the big picture'.
 
